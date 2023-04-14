@@ -1,0 +1,39 @@
+body{
+    margin: 0%;
+    background: grey  
+}
+div{
+    box-sizing: border-box;
+}
+header{
+    background: whitesmoke
+}
+header h1{
+    margin: 0%;
+}
+div.post{
+    margin-top: 10px;
+    background: white
+}
+div.post img{
+    width: 100%;
+}
+div.post  .post-header div:first-child{
+    display: inline-block;
+    width: 80%;
+}
+div.post  .post-header div:last-child{
+    display: inline-block;
+    width: 18%;
+    padding: 10px;
+    text-align: right;
+    color: grey;
+}
+div.post h2, div.post p{
+    padding: 5px;
+    margin: 0%;
+}
+div.container{
+    width: 600px;
+    margin: auto;
+}
