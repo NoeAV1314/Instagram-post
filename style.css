@@ -37,3 +37,8 @@ div.container{
     width: 600px;
     margin: auto;
 }
+div.post {
+    padding: 80px;
+    border: 10px;
+    border-color: black;
+}
